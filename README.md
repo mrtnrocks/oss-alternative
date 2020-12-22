@@ -7,3 +7,4 @@ OSS alternatives for popular paid software
 [Slack](slack.com) -> [Mattermost](https://mattermost.com/)
 [Segment](https://segment.com/) -> [Rudderstack](https://rudderstack.com/)
 [Twilio](twilio.com) -> [Fonos](https://github.com/fonoster/fonos)
+https://opensourcestash.com/
