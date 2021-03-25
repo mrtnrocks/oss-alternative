@@ -10,5 +10,6 @@ OSS alternatives for popular paid software
 [Twilio](twilio.com) -> [Fonos](https://github.com/fonoster/fonos)\
 [Heroku](heroku.com) -> [Porter](https://www.getporter.dev/)\
 [Firebase](firebase.google.com) -> [Supabase](https://supabase.io/)\
-https://opensourcestash.com/ \
+[Netlify](netlify.com) -> [Coolify](https://coollabs.io/coolify)\
+https://opensourcestash.com/ 
 
