@@ -11,5 +11,7 @@ OSS alternatives for popular paid software
 [Heroku](heroku.com) -> [Porter](https://www.getporter.dev/)\
 [Firebase](firebase.google.com) -> [Supabase](https://supabase.io/)\
 [Netlify](netlify.com) -> [Coolify](https://coollabs.io/coolify)\
+[DataDog](https://www.datadoghq.com/) -> [Signoz](https://signoz.io/)\
+[Sentry](https://sentry.io/welcome/) -> Sentry itself \
 https://opensourcestash.com/ 
 
