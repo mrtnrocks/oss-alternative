@@ -14,5 +14,5 @@ OSS alternatives for popular paid software
 [DataDog](https://www.datadoghq.com/) -> [Signoz](https://signoz.io/)\
 [Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
-https://opensourcestash.com/ 
+https://opensourcestash.com/  
 
