@@ -12,6 +12,7 @@ OSS alternatives for popular paid software
 [Firebase](firebase.google.com) -> [Supabase](https://supabase.io/)\
 [Netlify](netlify.com) -> [Coolify](https://coollabs.io/coolify)\
 [DataDog](https://www.datadoghq.com/) -> [Signoz](https://signoz.io/)\
+[Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
 https://opensourcestash.com/ 
 
