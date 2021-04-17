@@ -14,5 +14,6 @@ OSS alternatives for popular paid software
 [DataDog](https://www.datadoghq.com/) -> [Signoz](https://signoz.io/)\
 [Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
+[OneSignal](https://onesignal.com/) -> [Apprise](https://github.com/caronc/apprise) \  
 https://opensourcestash.com/  
 
