@@ -15,5 +15,6 @@ OSS alternatives for popular paid software
 [Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
 [OneSignal](https://onesignal.com/) -> [Apprise](https://github.com/caronc/apprise) \  
+[Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) \
 https://opensourcestash.com/              
 
