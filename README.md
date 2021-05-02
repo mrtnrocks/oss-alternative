@@ -18,3 +18,4 @@ OSS alternatives for popular paid software
 [Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) \
 https://opensourcestash.com/              
     
+  
