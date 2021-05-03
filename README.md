@@ -7,7 +7,7 @@ OSS alternatives for popular paid software
 [Mixpanel](mixpanel.com) [Heap](https://heap.io/) [Amplitude](https://amplitude.com/) -> [Posthog](https://posthog.com/)\
 [Slack](slack.com) -> [Mattermost](https://mattermost.com/)[RocketChat](https://rocket.chat/)\
 [Segment](https://segment.com/) -> [Rudderstack](https://rudderstack.com/)\
-[Twilio](twilio.com) -> [Fonos](https://github.com/fonoster/fonos) 
+[Twilio](twilio.com) -> [Fonos](https://github.com/fonoster/fonos)  \ 
 [Heroku](heroku.com) -> [Porter](https://www.getporter.dev/)\
 [Firebase](firebase.google.com) -> [Supabase](https://supabase.io/) [Space Cloud](https://spaceuptech.com/) [Nhost](https://nhost.io/) \
 [Netlify](netlify.com) -> [Coolify](https://coollabs.io/coolify)\
