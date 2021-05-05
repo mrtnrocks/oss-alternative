@@ -16,6 +16,7 @@ OSS alternatives for popular paid software
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
 [OneSignal](https://onesignal.com/) -> [Apprise](https://github.com/caronc/apprise)\
 [Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) \
+[Integromat](https://www.integromat.com/en) -> [n8n](https://n8n.io/)
 https://opensourcestash.com/              
     
    
