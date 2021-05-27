@@ -18,6 +18,7 @@ OSS alternatives for popular paid software
 [Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) \
 [Integromat](https://www.integromat.com/en) -> [n8n](https://n8n.io/)  \
 [Mailchimp](mailchimp.com) -> [Listmonk](https://listmonk.app/)  \
+[Airtable](airtable.com) -> [NocoDB](nocodb.com)  \  
 https://opensourcestash.com/                           
       
    
