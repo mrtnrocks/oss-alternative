@@ -6,7 +6,7 @@ OSS alternatives for popular paid software
 [Intercom](intercom.com) -> [Papercups](Papercups.io) [Chatwoot](https://www.chatwoot.com/) [Chaskiq](https://chaskiq.io/)\
 [Mixpanel](mixpanel.com) [Heap](https://heap.io/) [Amplitude](https://amplitude.com/) -> [Posthog](https://posthog.com/)\
 [Slack](slack.com) -> [Mattermost](https://mattermost.com/)[RocketChat](https://rocket.chat/)\
-[Segment](https://segment.com/) -> [Rudderstack](https://rudderstack.com/)\
+[Segment](https://segment.com/) -> [Rudderstack](https://rudderstack.com/) [Jitsu](https://jitsu.com/) \
 [Twilio](twilio.com) -> [Fonos](https://github.com/fonoster/fonos)\
 [Heroku](heroku.com) -> [Porter](https://www.getporter.dev/)\
 [Firebase](firebase.google.com) -> [Supabase](https://supabase.io/) [Space Cloud](https://spaceuptech.com/) [Nhost](https://nhost.io/) \
