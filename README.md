@@ -21,6 +21,7 @@ OSS alternatives for popular paid software
 [Airtable](airtable.com) -> [NocoDB](nocodb.com)  \
 [Logrocket](https://logrocket.com/) -> [Openlayer](https://openreplay.com/)  \
 [Retool](https://retool.com/) -> [Tooljet](tooljet.io) [Budibase](https://www.budibase.com) \
+[Figma](figma.com) -> [Penpot](https://penpot.app/) \
 https://opensourcestash.com/                             
       
    
