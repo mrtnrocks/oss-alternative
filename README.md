@@ -20,7 +20,7 @@ OSS alternatives for popular paid software
 [Mailchimp](mailchimp.com) -> [Listmonk](https://listmonk.app/)  \
 [Airtable](airtable.com) -> [NocoDB](nocodb.com)  \
 [Logrocket](https://logrocket.com/) -> [Openlayer](https://openreplay.com/)  \
-[Retool](https://retool.com/) -> [Tooljet](tooljet.io)  \
+[Retool](https://retool.com/) -> [Tooljet](tooljet.io) [Budibase](https://www.budibase.com) \
 https://opensourcestash.com/                             
       
    
