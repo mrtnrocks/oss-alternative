@@ -11,7 +11,7 @@ OSS alternatives for popular paid software
 [Heroku](heroku.com) -> [Porter](https://www.getporter.dev/)\
 [Firebase](firebase.google.com) -> [Supabase](https://supabase.io/) [Space Cloud](https://spaceuptech.com/) [Nhost](https://nhost.io/) \
 [Netlify](netlify.com) -> [Coolify](https://coollabs.io/coolify)\
-[DataDog](https://www.datadoghq.com/) -> [Signoz](https://signoz.io/)\
+[DataDog](https://www.datadoghq.com/) [New Relic](https://newrelic.com/) -> [Signoz](https://signoz.io/)\
 [Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
 [OneSignal](https://onesignal.com/) -> [Apprise](https://github.com/caronc/apprise)\
