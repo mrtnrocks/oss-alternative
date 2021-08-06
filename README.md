@@ -22,6 +22,7 @@ OSS alternatives for popular paid software
 [Logrocket](https://logrocket.com/) -> [Openlayer](https://openreplay.com/)  \
 [Retool](https://retool.com/) -> [Tooljet](tooljet.io) [Budibase](https://www.budibase.com) \
 [Figma](figma.com) -> [Penpot](https://penpot.app/) \
+[LiveSession](Livesesion.io) -> [rrweb](https://www.rrweb.io/)  \
 https://opensourcestash.com/     \
 https://www.btw.so/open-source-alternatives
 
