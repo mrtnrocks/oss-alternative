@@ -24,7 +24,8 @@ OSS alternatives for popular paid software
 [Figma](figma.com) -> [Penpot](https://penpot.app/) \
 [LiveSession](Livesesion.io) -> [rrweb](https://www.rrweb.io/)  \
 https://opensourcestash.com/     \
-https://www.btw.so/open-source-alternatives
+https://www.btw.so/open-source-alternatives  \
+https://flat.whiteboard.agora.io/en/
 
       
    
