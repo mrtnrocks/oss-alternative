@@ -23,6 +23,7 @@ OSS alternatives for popular paid software
 [Retool](https://retool.com/) -> [Tooljet](tooljet.io) [Budibase](https://www.budibase.com) \
 [Figma](figma.com) -> [Penpot](https://penpot.app/) \
 [LiveSession](Livesesion.io) -> [rrweb](https://www.rrweb.io/)  \
+ETL -> [Grouparoo](https://www.grouparoo.com/)  \
 https://opensourcestash.com/     \
 https://www.btw.so/open-source-alternatives  \
 https://flat.whiteboard.agora.io/en/
