@@ -18,7 +18,7 @@ OSS alternatives for popular paid software
 [Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) \
 [Integromat](https://www.integromat.com/en) -> [n8n](https://n8n.io/)  \
 [Mailchimp](mailchimp.com) -> [Listmonk](https://listmonk.app/)  \
-[Airtable](airtable.com) -> [NocoDB](nocodb.com)  \
+[Airtable](airtable.com) -> [NocoDB](nocodb.com) [Rowy](https://www.rowy.io/)  \
 [Logrocket](https://logrocket.com/) -> [Openlayer](https://openreplay.com/)  \
 [Retool](https://retool.com/) -> [Tooljet](tooljet.io) [Budibase](https://www.budibase.com) \
 [Figma](figma.com) -> [Penpot](https://penpot.app/) \
