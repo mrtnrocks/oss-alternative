@@ -25,6 +25,7 @@ OSS alternatives for popular paid software
 [LiveSession](Livesesion.io) -> [rrweb](https://www.rrweb.io/)  \
 ETL -> [Grouparoo](https://www.grouparoo.com/)  \
 Collaboration -> [Twake](https://twake.app/)   \
+Uptime Monitor -> [Uptime Kuma](https://github.com/louislam/uptime-kuma)  \
 https://opensourcestash.com/     \
 https://www.btw.so/open-source-alternatives  \
 https://flat.whiteboard.agora.io/en/
