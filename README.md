@@ -28,6 +28,7 @@ Collaboration -> [Twake](https://twake.app/)   \
 Uptime Monitor -> [Uptime Kuma](https://github.com/louislam/uptime-kuma)  \
 [Postman](https://www.postman.com/) -> [Hoppscotch](https://github.com/hoppscotch/hoppscotch)  \
 [Miro](miro.com) -> [Ourboard](https://github.com/raimohanska/ourboard)  \
+[Figma](figma.com) -> [Penpot](penpot.app)  \
 https://opensourcestash.com/     \
 https://www.btw.so/open-source-alternatives  \
 https://flat.whiteboard.agora.io/en/
