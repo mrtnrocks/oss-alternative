@@ -5,7 +5,7 @@ OSS alternatives for popular paid software
 [Tableau](https://www.tableau.com/) [MS Power BI](https://powerbi.microsoft.com/en-us/) [Google Data Studio](https://marketingplatform.google.com/about/data-studio/) -> [Metabase](https://www.metabase.com/) [Redash](https://redash.io/) [Cube.js](https://cube.dev/) \
 [Intercom](intercom.com) -> [Papercups](Papercups.io) [Chatwoot](https://www.chatwoot.com/) [Chaskiq](https://chaskiq.io/)\
 [Mixpanel](mixpanel.com) [Heap](https://heap.io/) [Hotjar](https://hotjar.com/) -> [Posthog](https://posthog.com/) [OpenReplay](https://openreplay.com/) \
-[Slack](slack.com) -> [Mattermost](https://mattermost.com/)[RocketChat](https://rocket.chat/)  [Fosscord](https://fosscord.com/) \
+[Slack](slack.com) -> [Mattermost](https://mattermost.com/) [RocketChat](https://rocket.chat/)  [Fosscord](https://fosscord.com/) \
 [Segment](https://segment.com/) -> [Rudderstack](https://rudderstack.com/) [Jitsu](https://jitsu.com/) \
 [Twilio](twilio.com) -> [Fonos](https://github.com/fonoster/fonos)\
 [Heroku](heroku.com) -> [Porter](https://www.getporter.dev/)\
