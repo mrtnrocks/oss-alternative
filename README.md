@@ -26,6 +26,7 @@ OSS alternatives for popular paid software
 ETL -> [Grouparoo](https://www.grouparoo.com/)  \
 Collaboration -> [Twake](https://twake.app/)   \
 Uptime Monitor -> [Uptime Kuma](https://github.com/louislam/uptime-kuma)  \
+[Postman](https://www.postman.com/) -> [Hoppscotch](https://github.com/hoppscotch/hoppscotch)  \
 https://opensourcestash.com/     \
 https://www.btw.so/open-source-alternatives  \
 https://flat.whiteboard.agora.io/en/
