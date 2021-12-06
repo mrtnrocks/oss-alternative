@@ -14,6 +14,7 @@ OSS alternatives for popular paid software
 [DataDog](https://www.datadoghq.com/) [New Relic](https://newrelic.com/) -> [Signoz](https://signoz.io/)\
 [Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
+https://authorizer.dev/ -> [Authorizer](https://authorizer.dev/)  \
 [OneSignal](https://onesignal.com/) -> [Apprise](https://github.com/caronc/apprise)\
 [Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) [Appflowy](https://www.appflowy.io/) \
 [Trello](trello.com) [Asana](asana.com) -> [focalboard](focalboard.com)  \
