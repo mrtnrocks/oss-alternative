@@ -15,6 +15,7 @@ OSS alternatives for popular paid software
 [Calendly](https://calendly.com/) -> [Calendso](https://calendso.com/) \
 [Sentry](https://sentry.io/welcome/) -> Sentry itself \
 [Okta](okta.com) -> [Authorizer](https://authorizer.dev/) [Ory](https://www.ory.sh/)  \
+[LaunchDarkly](https://launchdarkly.com/) -> [Growthbook](https://www.growthbook.io/)  \  
 [OneSignal](https://onesignal.com/) -> [Apprise](https://github.com/caronc/apprise)\
 [Notion](Notion.so) -> [Notea](https://cinwell.com/notea/) [Appflowy](https://www.appflowy.io/) \
 [Trello](trello.com) [Asana](asana.com) -> [focalboard](focalboard.com)  \
